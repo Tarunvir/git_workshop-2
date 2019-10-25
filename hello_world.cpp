@@ -1,5 +1,5 @@
-#include<stdio.h)
-
+#include<stdio.h>
+//bad paranthesis
 int main()
 {
 printf("Hello Aviiiiiiiiiiiiiiiiik");
